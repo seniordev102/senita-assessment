@@ -21,7 +21,7 @@ The application is designed based on the user stories and requirements outlined 
 
    ```bash
    git clone git@github.com:seniordev102/senita-assessment.git
-   cd star-wars-importer
+   cd senita-assessment
    ```
 
 2. **Install Dependencies** Make sure you have Bundler installed, then run:
